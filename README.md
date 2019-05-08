@@ -1,3 +1,7 @@
+# hello-world
+My first hello world in Angular
+===============================
+
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
